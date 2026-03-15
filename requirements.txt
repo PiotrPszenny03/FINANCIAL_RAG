@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai==1.0.8
+faiss-cpu
+pypdf
+streamlit
+python-dotenv
