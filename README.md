@@ -2,6 +2,7 @@
 
 AI Assistant for analyzing financial reports (e.g., IPO prospectuses, annual reports). This project demonstrates the usage of Retrieval-Augmented Generation (RAG) to extract specific financial numbers, risks, and insights from multipage PDF documents using LangChain, FAISS, and Google Gemini.
 
+![dashboard placeholder](images/home_page.png)
 ## 🚀 Features
 - **PDF Ingestion**: Handles large PDF files, splitting them into manageable chunks to respect LLM token limits.
 - **Vector Database**: Uses locally-stored **FAISS** for fast similarity search of document contents.
